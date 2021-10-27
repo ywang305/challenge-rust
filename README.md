@@ -38,4 +38,3 @@
     type aliases
 
 ### [ownership & move]()
-# challenge-rust
