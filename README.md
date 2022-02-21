@@ -28,6 +28,7 @@
     - run all tests
   - `cargo test someTestFn`
     - just run that test
+  - `cargo build --release`
 
 ### [fundamental_types](./fundamental_types/src/main.rs)
 
