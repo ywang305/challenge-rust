@@ -10,7 +10,7 @@
   - vscode setting auto format
     ```json
     "[rust]": {
-        "editor.defaultFormatter": "rust-lang.rust"
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
     }
     ```
 - vscode plugins

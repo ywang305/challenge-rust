@@ -1,5 +1,5 @@
 fn main() {
-    //assert_eq!("abc", trim_sppace(" abc   "));
+    assert_eq!("abc", trim_sppace(" abc   "));
 
     assert_eq!("ab", &"abcd"[0..2]);
 }
@@ -19,5 +19,6 @@ fn trim_sppace(s: &str) -> &str {
             break;
         }
     }
+
     &s[start..end]
 }
