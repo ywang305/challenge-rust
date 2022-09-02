@@ -38,4 +38,23 @@
     string
     type aliases
 
-### [ownership & move]()
+---
+
+## Walk The Dog (WASM)
+
+### chapter_1
+
+Initialize the project
+
+- rust-webpack-template
+  ```sh
+  mkdir walk-the-dog && cd walk-the-dog
+  npm init rust-webpack
+  npm i
+  ```
+- dev
+  ```sh
+  npm start
+  ```
+- install cargo dependencies \
+  add under Cargo.toml -> [dependencies]
