@@ -58,3 +58,9 @@ Initialize the project
   ```
 - install cargo dependencies \
   add under Cargo.toml -> [dependencies]
+  
+git delete local/remote tag
+```sh
+git tag -d tagName
+git push --delete origin tagName
+```
